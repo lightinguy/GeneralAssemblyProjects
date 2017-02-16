@@ -15,7 +15,7 @@ Ritika and Parisa.  Initial research I did found that the length of day was
 an important variable so we included it in our model.  Our team won 1st place
 for best presentation. 
 
-Iowa Liquor Sales - Project 2016 sales based on model built on data from
+Iowa Liquor Sales - Make a projection of 2016 sales based on model built on data from
 2015.  The data on liquor sales came from the state of Iowa.  We were given
 a listing of every wholesale purchase of alcohol (not beer or wine) for Iowa
 in 2015 and the first quarter of 2016. I used a linear regression approach 
@@ -23,7 +23,7 @@ and built a model for the 1st quarter of 2015 with the target being the total
 sales for 2015.  I then used that model and the 1st quarter of 2016 to project 
 sales for 2016.  
 
-2015 sales. United States SAT Scores - Analyze and explain observed
+United States SAT Scores - Analyze and explain observed
 average state SAT scores. The data was composed of the SAT (math and verbal) 
 scores for each state (and DC).  I analyzed the data and presented a strong 
 case that states where the ACT is prevalent only the top students take the
