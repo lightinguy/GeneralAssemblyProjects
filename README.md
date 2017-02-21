@@ -29,7 +29,6 @@ scores for each state (and DC).  I analyzed the data and presented a strong
 case that states where the ACT is prevalent only the top students take the
 SAT and that affects the average SAT scores for those states.  
 
-
 Global Terror Database - Bayesian comparison of France and UK bomb
 attacks.  The Global Terror Database (GTD) is a collection of data about
 terror attacks that have occurred anywhere in the world from 1970 till
@@ -50,3 +49,4 @@ was analyzed and used to build two different models that could be used
 to indicate if the pay for a job would be more than the median income
 for a data related science job in the DC area.
 
+# GeneralAssembly-Webpage
