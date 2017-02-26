@@ -7,7 +7,7 @@ chemical reactions between oxides of nitrogen (NOx) and volatile organic
 compounds (VOC) in the presence of sunlight.  Several different modeling
 approaches were used to predict if the level of ozone was above a
 threshold. They included SVM, Logistic Regression, and various decision
-tree methods were used.
+tree methods were used. 
 
 West Nile Virus in Chicago - An analysis of mosquito traps in Chicago
 (team project).  Worked with two exceptional women from the DC-DSI-3 cohort,
@@ -32,10 +32,10 @@ SAT and that affects the average SAT scores for those states.
 Global Terror Database - Bayesian comparison of France and UK bomb
 attacks.  The Global Terror Database (GTD) is a collection of data about
 terror attacks that have occurred anywhere in the world from 1970 till
-2015.   I did a Bayesian analysis of the number of terror related
-bombings in the UK and France.  Then, I focused in on the USA to get an
-idea of how safe we are within our borders.   Finally, I impute some
-1993 missing data.
+2015.   A Bayesian analysis was done comparing the number of terror related
+bombings in the UK and France.  Then, an brief analysis on the number terror 
+related deaths of USA citizens was done.  Finally, missing data from 1993
+is imputed.
 
 Web-Scraping the Indeed Job Site - Gather/analyze job salary info from
 the Indeed web site. The Indeed.com job posting web site is one of the
@@ -48,5 +48,10 @@ postings was gathered using web scraping techniques. That information
 was analyzed and used to build two different models that could be used
 to indicate if the pay for a job would be more than the median income
 for a data related science job in the DC area.
+
+Bayesian Dice Handout - A handout made up to make it easy to determine
+the odds of rolling a specific number when dies with different numbers of 
+sides are used.  Also, a layout of how to calculate the odds of specific 
+die being used when a specific number is rolled.  
 
 # GeneralAssembly-Webpage
