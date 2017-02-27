@@ -1,5 +1,5 @@
 # GeneralAssemblyProjects
-Projects from DC-DSI-3 (2016-2017)
+Philip Bradfield = projects from DC-DSI-3 (2016-2017)
 
 Ground Level Ozone - Modeling ground level ozone with data from the EPA.
 Ground level ozone is an atmospheric pollutant that is formed by
